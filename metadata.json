@@ -1,0 +1,6 @@
+{
+  "name": "BitePulse - Campus Food Intelligence & Queue Radar",
+  "description": "Know the crowd. Find your food. Beat the queue. Smart campus food discovery, queue intelligence, time attack & budget finder, group ordering, and student rewards.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

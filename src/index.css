@@ -1,0 +1,48 @@
+@import "tailwindcss";
+
+@theme {
+  --font-display: 'Cabinet Grotesk', 'Plus Jakarta Sans', sans-serif;
+  --font-sans: 'Plus Jakarta Sans', sans-serif;
+
+  --color-bg-primary: #050505;
+  --color-bg-secondary: #0B0B0B;
+  --color-card: #111111;
+  --color-card-elevated: #171717;
+  --color-neon-primary: #39FF14;
+  --color-neon-secondary: #7CFF5B;
+  --color-dark-green: #0B3D16;
+  --color-text-primary: #FFFFFF;
+  --color-text-secondary: #B7B7B7;
+  --color-text-muted: #777777;
+  --color-warning: #FFD23F;
+  --color-error: #FF4D4D;
+}
+
+body {
+  font-family: var(--font-sans);
+  background-color: #050505;
+  color: #FFFFFF;
+}
+
+/* Custom scrollbar for horizontal containers */
+.no-scrollbar::-webkit-scrollbar {
+  display: none;
+}
+.no-scrollbar {
+  -ms-overflow-style: none;
+  scrollbar-width: none;
+}
+
+/* Subtle neon glows */
+.neon-glow-sm {
+  box-shadow: 0 0 10px rgba(57, 255, 20, 0.25);
+}
+.neon-glow-md {
+  box-shadow: 0 0 18px rgba(57, 255, 20, 0.35);
+}
+.neon-border-glow {
+  border-color: #39FF14;
+  box-shadow: 0 0 12px rgba(57, 255, 20, 0.2);
+}
+
+

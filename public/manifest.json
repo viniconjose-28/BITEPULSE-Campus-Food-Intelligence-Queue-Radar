@@ -1,0 +1,15 @@
+{
+  "short_name": "BitePulse",
+  "name": "BitePulse - Campus Food Intelligence & Queue Radar",
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "type": "image/svg+xml",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": "/",
+  "background_color": "#050505",
+  "theme_color": "#39FF14",
+  "display": "standalone"
+}
