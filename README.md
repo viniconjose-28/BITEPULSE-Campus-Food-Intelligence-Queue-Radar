@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # BITEPULSE — Campus Food Intelligence & Queue Radar
 **Mobile Application Development (MAD) Assignment 4 & 5**  
 **Tagline:** *"Know the Crowd. Find Your Food. Beat the Queue."*  
@@ -81,3 +82,7 @@ BitePulse is a local-first Android mobile application built with **Kotlin**, **J
 1. `npm install`
 2. `npm run dev`
 3. Open browser at `http://localhost:3000`.
+=======
+# BITEPULSE-Campus-Food-Intelligence-Queue-Radar
+Know the crowd. Find your food. Beat the queue. Smart campus food discovery, queue intelligence, time attack &amp; budget finder, group ordering, and student rewards
+>>>>>>> 84f6fb15e51fe914b62c1d938d96eabf87141a94
